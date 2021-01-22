@@ -1,4 +1,3 @@
-<!-- 1 komds -->
 <!DOCTYPE html>
 <html>
 <head>
